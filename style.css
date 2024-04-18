@@ -49,5 +49,13 @@ body{
     .botoes{
         display: flex;
     }
+    .botao:first-childZ{
+        border-radius: 40px 0 0 0;
+    }
+    .botao:last-child{
+        border-radius: 0 40px 0 0;
+    }
 }
+
+
     
